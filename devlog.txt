@@ -3,3 +3,7 @@ Andy Liang
 1/11/16
 
 8:30 - 11:16 -- Created the World Map 
+
+1/12/16
+
+9:12 - 12:07 -- Created the Nearby class
