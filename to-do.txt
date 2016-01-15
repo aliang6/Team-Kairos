@@ -1,6 +1,6 @@
 Weekend
-5 hours - Shariar - Battle.java - Creates the battle phase and implements the statistics involved in conquering territory
-5 hours - Andy - Turn. java - Defines what a turn is. Remembers all the decisions of the players then performs them all at once after they end their turn.
+5 hours - Shariar - Battle System- Creates the battle phase and implements the statistics involved in conquering territory
+5 hours - Andy - Turn System - Defines what a turn is. Remembers all the decisions of the players then performs them all at once after they end their turn.
 
 Tuesday
 4 hours - Andy and Shariar - GameStart.java - Starts the game and initializes everything that has to be initialized.
@@ -9,5 +9,5 @@ Wednesday and Thursday
 8 hours - Andy and Shariar - CardSystem.java - Implements the card system of the game and all its variables.
 
 Friday and the Weekend
-10 hours - Andy and Shariar - Driver.java - Links everything together.
+10 hours - Andy and Shariar - Play.java - Links everything together.
 4 hours - Andy and Shariar - Optimization of all numbers.
