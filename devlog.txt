@@ -51,3 +51,9 @@ Shariar Kabir
 1/15/16
 
 Created a initial battle simulation system. Use's RNG, will implement actual probability from wiki later.
+
+1/18/16
+
+9:30 - 10:42
+
+Finished most of the battle phase. Need to implmenent one last check to see if all countries in continent is conquered. 
