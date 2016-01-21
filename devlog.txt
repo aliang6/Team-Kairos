@@ -57,3 +57,13 @@ Created a initial battle simulation system. Use's RNG, will implement actual pro
 9:30 - 10:42
 
 Finished most of the battle phase. Need to implmenent one last check to see if all countries in continent is conquered. 
+
+-----------------------------------------
+
+Andy Liang
+
+1/15/16 - 1/21/16
+
+Created Play.java and working on the Turn system
+
+-----------------------------------------
