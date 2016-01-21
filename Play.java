@@ -108,19 +108,19 @@ public class Play{
         Territory take;
      
         int deployedTroops ;
-        System.out.println(N2);
-        System.out.println(returnATerr("N2"));
+    
         mine=returnATerr("N2");
-        System.out.println("---------------- ");
+     
         N2.addArmy(30);
         mine=returnATerr("N2");
-        System.out.println(N2);
-        System.out.println((one.territory).size());
+
         while ((one.territory).size() <= 41){
             // Player 1
-           // map.showMap();
+            map.showMap();
+            System.out.println("Player 1 is starting with almost all of the map besides N2");
+            System.out.println("Player 1 also gets 30 troop bonus to insure they win :)");
             System.out.println("Player 1: Turn" + one.getTurns());
-            System.out.println("You have" + one.getArmyT() + "troops. Which territory would you like to place them in? Hint: CHOOSE N2");
+            System.out.println("You have " + one.getArmyT() + " troops. Which territory would you like to place them in? Hint: CHOOSE N2");
             chosenTerr = Keyboard.readString();
             System.out.println("How many troops would you like to deploy?");
             deployedTroops = Integer.parseInt(Keyboard.readString());
@@ -137,7 +137,7 @@ public class Play{
             
         }
    
-        System.out.println("Player 1 wins!");
+        System.out.println("Player 1 wins! He got all the regions!");
         
     }
       public static void battle(Player myturn, Player attacked, String attack, String defend){
