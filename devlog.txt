@@ -67,3 +67,16 @@ Andy Liang
 Created Play.java and working on the Turn system
 
 -----------------------------------------
+
+Shariar Kabir & Andy Liang
+
+1/21/16
+
+8:35 PM-12:04 AM
+
+Shariar: Created method for game turns to work, convert string--> Territory object -- returnATerr. Worked on turn system
+
+Andy: Created initial system for the player turns and interaction between them+territory
+
+Both: Bug checking, fixing errors, implemntation of battle system with correlation with turn system, reorganized some code
+
