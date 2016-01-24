@@ -80,3 +80,17 @@ Andy: Created initial system for the player turns and interaction between them+t
 
 Both: Bug checking, fixing errors, implemntation of battle system with correlation with turn system, reorganized some code
 
+-------------------------------------------
+
+Shariar Kabir
+
+1/23/16
+
+11:50 Pm - 5:31 AM 
+
+Finished all of the turn system - Accounts for all posibilities of a user input (thank you coffee), and looping back to last sucessful command issued, takes care of battle squence
+
+Reconstructed the battle system, transfers troops after its done, awards random card  (10% chance - air support, ground support, navy support) if a player conquers a territory
+
+Created card system (cards used for additonal troops, - only gained if a territory is conquered)
+
