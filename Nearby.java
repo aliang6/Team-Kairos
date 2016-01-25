@@ -1,3 +1,5 @@
+//Team Kairos - Shariar Kabir, Andy Liang
+//APCS1 Final Project
 public class Nearby{
     private final static String[][] nearby ={{"N2", "N5"}, //These are the territories around N1
                                             {"N1", "N3", "N4", "N5"}, //N2

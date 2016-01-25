@@ -1,3 +1,5 @@
+//Team Kairos - Shariar Kabir, Andy Liang
+//APCS1 Final Project
 import java.util.ArrayList;
 public class Territory{
     private String[] N = {"N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8"};
@@ -43,7 +45,7 @@ public class Territory{
     }
     
     public String display(){ //Displays symbol of owner and the number of troops in the territory e.g. @025
-        String x = "owner";
+        String x = owner;
         String troops = armytotal+"";
         if (troops.length() > 3){
             troops = "999"; //Maximum amount of troops in a territory is 999
@@ -57,7 +59,7 @@ public class Territory{
     }
     public String toString(){
         String retStr="";
-        retStr+=armytotal +"";
+        retStr+=armytotal +" "+terrName;
         return retStr;
         
     }

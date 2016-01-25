@@ -90,7 +90,10 @@ Shariar Kabir
 
 Finished all of the turn system - Accounts for all posibilities of a user input (thank you coffee), and looping back to last sucessful command issued, takes care of battle squence
 
-Reconstructed the battle system, transfers troops after its done, awards random card  (10% chance - air support, ground support, navy support) if a player conquers a territory
+Reconstructed the battle system, transfers troops after its done, awards random card  (15% chance - air support, ground support, navy support) if a player conquers a territory
 
 Created card system (cards used for additonal troops, - only gained if a territory is conquered)
+
+5:00 Pm - 11:05 PM
+Bug testing, fixed some special case errors we found and cleaned code
 

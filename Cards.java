@@ -1,21 +1,18 @@
-public class Cards{
-    private boolean isUsed;
-    private int newArmies;
-    private String name;
+//Team Kairos - Shariar Kabir, Andy Liang
+//APCS1 Final Project
+public abstract class Cards{
+    protected boolean isUsed;
+    protected int newArmies;
+    protected String name;
     
-    public Cards(){
-        isUsed=true;
-        newArmies=0;
-        
-    }
-    public Cards(String x, int troops){
-        name=x;
-        newArmies=troops;
-        
-    }
+    
     public int getTroops(){
         return newArmies;
     }
+    public String getName(){
+        return name;
+    }
+    
     
     
 }
