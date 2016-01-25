@@ -82,6 +82,22 @@ Both: Bug checking, fixing errors, implemntation of battle system with correlati
 
 -------------------------------------------
 
+Andy Liang
+
+1/24/16
+
+4:00 PM - 12:46 AM
+
+Created the graph function that displays our estimates for chances of winning a battle against a certain territory
+
+Created function that checked if a Player has any conquered territories.
+
+Fixed some bugs and the non-updating map issue. 
+
+Wrote the readme
+
+-------------------------------------------
+
 Shariar Kabir
 
 1/23/16
